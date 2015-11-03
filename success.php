@@ -13,6 +13,5 @@
 		<button class="btn btn-info">Back to index</button>
             </a>
 	</div>
-        <!-- Dude this is awesome! -->
     </body>
 </html>
